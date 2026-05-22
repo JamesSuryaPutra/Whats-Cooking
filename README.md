@@ -1,5 +1,5 @@
 # What's Cooking?
-
+<img width="560" height="280" alt="header" src="https://github.com/user-attachments/assets/5094b79e-1186-45b6-ab65-8af592620ff4" />
 
 # Description
 "Picture yourself strolling through your local, open-air market... What do you see? What do you smell? What will you make for dinner tonight?"
